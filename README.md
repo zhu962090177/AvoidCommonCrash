@@ -1,0 +1,2 @@
+# AvoidCommonCrash
+对于NSArray和NSDictionary使用的时候由于nil导致的奔溃
